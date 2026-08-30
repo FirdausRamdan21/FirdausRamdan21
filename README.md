@@ -23,7 +23,7 @@ I'm a passionate **Software Engineering** student at **SMKN 8 Jakarta** with a s
 - **Always Learning**: Everything I can get my hands on!
 
 <p align="center">
-  <i>Theory is my Map, Code is my Path.”</i>
+  <i>Theory is my Map, Code is my Path.</i>
 </p>
 
 
