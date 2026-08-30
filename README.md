@@ -22,18 +22,8 @@ I'm a passionate **Software Engineering** student at **SMKN 8 Jakarta** with a s
 - **Currently Exploring**: More advanced algorithms & backend concepts
 - **Always Learning**: Everything I can get my hands on!
 
----
-
-## 📂 What's Inside This Repo?
-
-This repository contains my **EASY Project Series**—a collection of small experiments that showcase my development process. 
-
-> *"I believe the final result is just the tip of the iceberg. The real value lies in the workflow, the problem-solving, and the little bugs that taught me something new."*
-
-Feel free to explore the folders to see how I approach challenges—from displaying "Hello World" to handling dynamic interactions with JavaScript.
-
 <p align="center">
-  <i>“Building logic first, writing code second.”</i>
+  <i>Theory is my Map, Code is my Path.”</i>
 </p>
 
 
