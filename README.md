@@ -28,7 +28,7 @@ I'm a passionate **Software Engineering** student at **SMKN 8 Jakarta** with a s
 
 I'm always open to feedback, collaboration, or just a good tech conversation!
 
-- 📧 **Email**: [mefirdausramdan@gmail.com](mailto:mrfirdausramdan@gmail.com)
+- 📧 **Email**: [mrfirdausramdan@gmail.com](mailto:mrfirdausramdan@gmail.com)
 - 💼 **LinkedIn**: [Firdaus Ramdan](https://www.linkedin.com/in/firdaus-ramdan/)
 
 ---
